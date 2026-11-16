@@ -47,7 +47,7 @@
     "react-dom": "^19.2.7",
     "react-tooltip": "^6.0.6",
     "semver": "^7.8.2",
-    "sharp": "^0.34.5"
+    "sharp": "^0.35.5"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.10.1",
@@ -81,7 +81,7 @@
     "remark-preset-lint-recommended": "^7.0.1",
     "typescript": "^6.0.3",
     "unist-util-visit": "^5.1.0",
-    "vitest": "^4.1.8"
+    "vitest": "^4.1.11"
   },
   "browserslist": {
     "production": [
